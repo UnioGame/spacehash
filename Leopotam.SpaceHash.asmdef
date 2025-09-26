@@ -1,0 +1,14 @@
+{
+    "name": "Leopotam.SpaceHash",
+    "rootNamespace": "Leopotam.SpaceHash",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

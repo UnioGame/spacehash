@@ -1,0 +1,19 @@
+{
+    "name": "ru.leopotam.spacehash",
+    "author": "Leopotam",
+    "displayName": "Space Hash",
+    "description": "Space Hash - реализация хеширования конечного 2D/3D пространства для поиска в нем.",
+    "unity": "2021.3",
+    "version": "2025.9.6",
+    "keywords": [
+        "space",
+        "hash",
+        "search",
+        "performance"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://gitverse.ru/leopotam/spacehash.git"
+    }
+}
